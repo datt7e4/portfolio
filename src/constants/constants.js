@@ -12,7 +12,7 @@ export const projects = [
   {
     title: '3D Gears',
     description: "A program that creates and animates 3D objects by using drawing and rendering algorithms without the usage of a third-party library.",
-      image: '/images/3DGear.jpg',
+      image: '/images/3.jpg',
       tags: ['Javascript'],
     source: 'https://github.com/datt27/TCSS485FinalProject',
     visit: 'https://master.dack20r5ob0v9.amplifyapp.com/',
